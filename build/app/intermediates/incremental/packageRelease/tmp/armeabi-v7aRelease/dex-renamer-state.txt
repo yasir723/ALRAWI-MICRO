@@ -1,0 +1,4 @@
+#Sun Jun 16 17:47:09 TRT 2024
+base.0=P\:\\xampp\\htdocs\\server\\MikroYasir\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
