@@ -1,7 +1,7 @@
 <h1 align=center >Alrawi Micro</h1>
 <div align=center >
   
-![Banner](https://github.com/yasir723/ALRAWI-MICRO/assets/111686779/d8b6ab66-19a2-4b9f-8275-a72ba4667486)
+![Banner](https://github.com/user-attachments/assets/da9966c9-e521-4068-9fc5-f692ee18dedb)
 </div>
 
 ## Mikroişlemciler için PWM ve Timer Hesaplayıcı
@@ -24,7 +24,7 @@ Bu **Flutter** uygulaması, mikroişlemci tabanlı sistemlerdeki `PWM` (Pulse Wi
 
 Ana sayfa, kullanıcıyı karşılayan iki büyük düğmeden oluşur: `TIM` ve `PWM` hesaplamaları için.
 <div align=center >
-  <img src="https://github.com/yasir723/ALRAWI-MICRO/assets/111686779/5f1eb72e-532a-4c62-b51b-6a71e20b41bc" width = 50%>
+  <img src="https://github.com/user-attachments/assets/7bb62a90-6f56-4111-a967-e95c5cbf50bc" width = 50%>
 </div>
 
 ### TIM Sayfası
@@ -57,9 +57,9 @@ Aynı frekans hesabı yöntemi kullanılarak `ARR` ve `PSC` değerleri hesaplana
 - **PSC**: 1000
 - **Zaman Periyodu**: 100 ms
 <div align=center >
-  <img src="https://github.com/yasir723/ALRAWI-MICRO/assets/111686779/00f29ae2-79b2-4801-a411-390667b0d83f" width = 32% >
-  <img src="https://github.com/yasir723/ALRAWI-MICRO/assets/111686779/c62c8bb0-0444-449b-b3be-be7801cc565c" width = 32% >
-  <img src="https://github.com/yasir723/ALRAWI-MICRO/assets/111686779/fa7c7961-6f68-462d-93da-ba1094a17669" width = 32% >
+  <img src="https://github.com/user-attachments/assets/27d6558f-6e91-4ced-8141-24019cba6a23" width = 32% >
+  <img src="https://github.com/user-attachments/assets/45bd50aa-86f2-4b01-a7a2-e4626f5a23a8" width = 32% >
+  <img src="https://github.com/user-attachments/assets/db23813d-10f2-4270-b515-aa4ba6fc7fac" width = 32% >
 </div>
 
 TIM hesaplama işlemi, girilen değere göre ilgili frekans veya periyot değerlerini `ARR` ve `PSC`'ye dönüştürür ve sonucu ekranda gösterir.
@@ -89,8 +89,8 @@ PWM hesaplama sayfasında, kullanıcılar frekans `Hz` ve görev döngüsü `%` 
 <div align=center >
 </div>
 <div align=center >
-  <img src="https://github.com/yasir723/ALRAWI-MICRO/assets/111686779/0f65d582-c0cd-4384-ae2b-42d4e505d1ae" width = 49%>
-  <img src="https://github.com/yasir723/ALRAWI-MICRO/assets/111686779/f1cab403-2827-4b52-adc4-b652929976a3" width = 49%>
+  <img src="https://github.com/user-attachments/assets/7459de72-5962-42bf-b7d7-c2968b67e58b" width = 49%>
+  <img src="https://github.com/user-attachments/assets/ee9ae341-e243-4ddb-8e55-30579caf85d7" width = 49%>
 </div>
 
 PWM hesaplama işlemi, girilen frekans ve görev döngüsüne göre `ARR`, `PSC` ve `CCR1` değerlerini hesaplar ve sonucu ekranda gösterir.
